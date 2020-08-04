@@ -117,6 +117,10 @@ a:hover {
   margin-left: 30px;
 }
 
+.mountain {
+  width:100%
+}
+
 .btn {
   background: #ff4949;
   background-image: -webkit-linear-gradient(top, #ff4949, #c10000);
